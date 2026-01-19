@@ -3,8 +3,11 @@
 <img src="assets/screenshots/icon.png" width="80" align="left" hspace="5" />
 
 ### VN Browser
+
 Unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.org/).
+
 ### Search and discover visual novels.
+
 <br clear="left" />
 
 🟢 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.cmgapps.vnbrowser)  
@@ -30,22 +33,23 @@ official pages for deeper info.
 
 ### 📸 Screenshots
 
-<!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="assets/screenshots/01.png" width="180" />
-  <img src="assets/screenshots/02.png" width="180" />
-  <img src="assets/screenshots/03.png" width="180" />
-  <img src="assets/screenshots/04.png" width="180" />
+    <img src="assets/screenshots/01.png" width="180" />
+    <img src="assets/screenshots/02.png" width="180" />
+    <img src="assets/screenshots/03.png" width="180" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/05.png" width="180" />
-  <img src="assets/screenshots/06.png" width="180" />
-  <img src="assets/screenshots/07.png" width="180" />
+    <img src="assets/screenshots/04.png" width="180" />
+    <img src="assets/screenshots/05.png" width="180" />
+    <img src="assets/screenshots/06.png" width="180" />
 </p>
-<!-- markdownlint-enable MD033 -->
 
-### 🔎 What you can do  
+<p align="center">
+    <img src="assets/screenshots/07.png" width="180" />
+</p>
+
+### 🔎 What you can do
 
 ➤ Search & filter by title, platforms, languages and release date.  
 ➤ Browse curated lists: upcoming releases, just released and popular classics.  
@@ -54,19 +58,20 @@ official pages for deeper info.
 ➤ Report entries: open the VNDB report page from any title’s details.  
 ➤ Light/Dark theme that follows your system setting.
 
-### 🧭 Maturity controls  
+### 🧭 Maturity controls
 
 Mature (18+) titles are hidden by default. You can enable them in Settings after an age check and a
 confirmation prompt. Covers are blurred by default.
 
-### 🔐 Privacy & data  
+### 🔐 Privacy & data
 
 ➤ No account required. No ads.  
 ➤ The app does not collect or sell personal data.  
 ➤ Basic crash diagnostics may be used to improve stability.
 
-### 📚 About the data  
+### 📚 About the data
 
-Content is shown from [The Visual Novel Database (VNDB)](https://vndb.org/). VN Browser is an independent app and is not
+Content is shown from [The Visual Novel Database (VNDB)](https://vndb.org/). VN Browser is an
+independent app and is not
 affiliated with or endorsed by VNDB or any rights holders. It does not host or distribute visual
 novel content, only metadata and links to official pages.
