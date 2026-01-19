@@ -4,8 +4,10 @@
 
 ### VN Browser
 Unofficial Android client for VNDB (visual novel database).
-<br clear="left" />
 ### Search and discover visual novels.
+
+<br clear="left" />
+
 
 💾 **Download APK**: (link a Releases)
 
