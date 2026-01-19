@@ -7,7 +7,7 @@ Unofficial Android client for VNDB (visual novel database).
 ### Search and discover visual novels.
 <br clear="left" />
 
-💾 **Download APK**: (link a Releases)
+💾 [Download APK (Latest)](https://github.com/chrmargra/vn-browser-android/releases/latest)
 
 ✅ **Requirements:** Android **12+** (API 31)
 
