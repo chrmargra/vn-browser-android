@@ -20,7 +20,7 @@ Google Play is recommended. APK is for devices without Google Play.
 
 ✉️ **Support**: [devchristianmartinez@gmail.com](mailto:devchristianmartinez@gmail.com)
 
-✅ **Requirements:** Android **12+** (API 31)
+✅ **Requirements:** Android **12+**
 
 ### Overview
 
