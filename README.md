@@ -14,6 +14,12 @@ Google Play is recommended. APK is for devices without Google Play.
 
 📝 [Changelog / Releases](https://github.com/chrmargra/vn-browser-android/releases)
 
+🔒 [Privacy Policy](https://devchristianmartin8.wixsite.com/policy-vn-browser)
+
+🧑‍💻 **Developer**: [CMG Apps](https://play.google.com/store/apps/dev?id=7948300751358149534)
+
+📧 **Support**: devchristianmartinez@gmail.com
+
 ✅ **Requirements:** Android **12+** (API 31)
 
 ### Overview
@@ -61,6 +67,6 @@ confirmation prompt. Covers are blurred by default.
 
 ### 📚 **About the data:**  
 
-Content is shown from the Visual Novel Database (VNDB). VN Browser is an independent app and is not
+Content is shown from [The Visual Novel Database (VNDB)]((https://vndb.org/)). VN Browser is an independent app and is not
 affiliated with or endorsed by VNDB or any rights holders. It does not host or distribute visual
 novel content, only metadata and links to official pages.
