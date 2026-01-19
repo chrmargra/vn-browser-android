@@ -1,8 +1,8 @@
 ![VN Browser banner](assets/screenshots/banner.png)
 
-<img src="assets/screenshots/icon.png" width="96" align="left" />
+<img src="assets/screenshots/icon.png" width="96" align="left" hspace="12" />
 
-## VN Browser
+### VN Browser
 Unofficial Android client for VNDB (visual novel database).
 
 <br clear="left" />
@@ -17,7 +17,7 @@ official pages for deeper info.
 
 ✅ **Requirements:** Android **12+** (API 31)
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
