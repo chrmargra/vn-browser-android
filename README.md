@@ -19,7 +19,7 @@ Find your next visual novel fast ✨. VN Browser is a clean, modern catalog to d
 visual novels by name, platform, language and release date. Explore in seconds, then jump to the
 official pages for deeper info.
 
-### 📸 Screenshots
+### 📸 Screenshots:
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
