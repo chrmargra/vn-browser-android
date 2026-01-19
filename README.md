@@ -28,7 +28,7 @@ Find your next visual novel fast ✨. VN Browser is a clean, modern catalog to d
 visual novels by name, platform, language and release date. Explore in seconds, then jump to the
 official pages for deeper info.
 
-### 📸 Screenshots:
+### 📸 Screenshots
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
@@ -45,7 +45,7 @@ official pages for deeper info.
 </p>
 <!-- markdownlint-enable MD033 -->
 
-### 🔎 **What you can do:**  
+### 🔎 What you can do  
 
 ➤ Search & filter by title, platforms, languages and release date.  
 ➤ Browse curated lists: upcoming releases, just released and popular classics.  
@@ -54,18 +54,18 @@ official pages for deeper info.
 ➤ Report entries: open the VNDB report page from any title’s details.  
 ➤ Light/Dark theme that follows your system setting.
 
-### 🧭 **Maturity controls:**  
+### 🧭 Maturity controls  
 
 Mature (18+) titles are hidden by default. You can enable them in Settings after an age check and a
 confirmation prompt. Covers are blurred by default.
 
-### 🔐 **Privacy & data:**  
+### 🔐 Privacy & data  
 
 ➤ No account required. No ads.  
 ➤ The app does not collect or sell personal data.  
 ➤ Basic crash diagnostics may be used to improve stability.
 
-### 📚 **About the data:**  
+### 📚 About the data  
 
 Content is shown from [The Visual Novel Database (VNDB)](https://vndb.org/). VN Browser is an independent app and is not
 affiliated with or endorsed by VNDB or any rights holders. It does not host or distribute visual
