@@ -67,6 +67,6 @@ confirmation prompt. Covers are blurred by default.
 
 ### 📚 **About the data:**  
 
-Content is shown from [The Visual Novel Database (VNDB)]((https://vndb.org/)). VN Browser is an independent app and is not
+Content is shown from [The Visual Novel Database (VNDB)](https://vndb.org/). VN Browser is an independent app and is not
 affiliated with or endorsed by VNDB or any rights holders. It does not host or distribute visual
 novel content, only metadata and links to official pages.
