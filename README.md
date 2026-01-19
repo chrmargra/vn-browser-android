@@ -8,7 +8,6 @@ Unofficial Android client for VNDB (visual novel database).
 
 <br clear="left" />
 
-
 💾 **Download APK**: (link a Releases)
 
 ✅ **Requirements:** Android **12+** (API 31)
