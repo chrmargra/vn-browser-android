@@ -1,21 +1,23 @@
 ![VN Browser banner](assets/screenshots/banner.png)
 
-<img src="assets/screenshots/icon.png" width="96" align="left" hspace="10" />
+<img src="assets/screenshots/icon.png" width="96" align="left" hspace="5" />
 
 ### VN Browser
 Unofficial Android client for VNDB (visual novel database).
 
 <br clear="left" />
 
-### VN Browser - Search and discover visual novels.
-
-Find your next visual novel fast ✨. VN Browser is a clean, modern catalog to discover and track
-visual novels by name, platform, language and release date. Explore in seconds, then jump to the
-official pages for deeper info. 
+### Search and discover visual novels.
 
 💾 **Download APK**: (link a Releases)
 
 ✅ **Requirements:** Android **12+** (API 31)
+
+### Overview
+
+Find your next visual novel fast ✨. VN Browser is a clean, modern catalog to discover and track
+visual novels by name, platform, language and release date. Explore in seconds, then jump to the
+official pages for deeper info.
 
 ### 📸 Screenshots
 
