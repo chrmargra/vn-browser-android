@@ -17,15 +17,18 @@ official pages for deeper info.
 
 ## 📸 Screenshots
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| <img src="assets/screenshots/01.png" width="180" /> | <img src="assets/screenshots/02.png" width="180" /> | <img src="assets/screenshots/03.png" width="180" /> | <img src="assets/screenshots/04.png" width="180" /> |
+<p align="center">
+  <img src="assets/screenshots/01.png" width="180" />
+  <img src="assets/screenshots/02.png" width="180" />
+  <img src="assets/screenshots/03.png" width="180" />
+  <img src="assets/screenshots/04.png" width="180" />
+</p>
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="assets/screenshots/05.png" width="180" /> | <img src="assets/screenshots/06.png" width="180" /> | <img src="assets/screenshots/07.png" width="180" /> |
-
-
+<p align="center">
+  <img src="assets/screenshots/05.png" width="180" />
+  <img src="assets/screenshots/06.png" width="180" />
+  <img src="assets/screenshots/07.png" width="180" />
+</p>
 
 🔎 **What you can do:**  
 
