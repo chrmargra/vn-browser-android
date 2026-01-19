@@ -3,13 +3,14 @@
 <img src="assets/screenshots/icon.png" width="96" align="left" hspace="5" />
 
 ### VN Browser
-Unofficial Android client for VNDB (visual novel database).
-### Search and discover visual novels.
+Unofficial Android client for VNDB (visual novel database).  
+**Search and discover visual novels.**
 <br clear="left" />
 
 💾 **Download APK**: (link a Releases)
 
 ✅ **Requirements:** Android **12+** (API 31)
+
 
 ### Overview
 
