@@ -1,7 +1,16 @@
 ![VN Browser banner](assets/screenshots/banner.png)
 
-<img src="assets/screenshots/icon.png" width="96" /> | # VN Browser
-Unofficial Android client for VNDB (visual novel database).
+<!-- markdownlint-disable MD033 -->
+<div style="display:flex; align-items:center; gap:14px;">
+  <img src="assets/screenshots/icon.png" width="96" alt="VN Browser icon" />
+  <div>
+    <h1 style="margin:0;">VN Browser</h1>
+    <p style="margin:6px 0 0;">
+      Unofficial Android client for VNDB (visual novel database).
+    </p>
+  </div>
+</div>
+<!-- markdownlint-enable MD033 -->
 
 ### VN Browser - Search and discover visual novels.
 
@@ -11,12 +20,11 @@ official pages for deeper info.
 
 💾 **Download APK**: (link a Releases)
 
-✅ **Requirements:**  
-
-➤ Android **12+** (API 31)
+✅ **Requirements:** Android **12+** (API 31)
 
 ## 📸 Screenshots
 
+<!-- markdownlint-disable MD033 -->
 <p align="center">
   <img src="assets/screenshots/01.png" width="180" />
   <img src="assets/screenshots/02.png" width="180" />
@@ -29,6 +37,7 @@ official pages for deeper info.
   <img src="assets/screenshots/06.png" width="180" />
   <img src="assets/screenshots/07.png" width="180" />
 </p>
+<!-- markdownlint-enable MD033 -->
 
 🔎 **What you can do:**  
 
