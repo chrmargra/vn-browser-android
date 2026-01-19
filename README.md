@@ -2,7 +2,7 @@
 
 <img src="assets/screenshots/icon.png" width="96" align="left" />
 
-# VN Browser
+<h1>VN Browser</h1>
 Unofficial Android client for VNDB (visual novel database).
 
 <br clear="left" />
