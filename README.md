@@ -13,7 +13,6 @@ Unofficial Android client for VNDB (visual novel database).
 
 ✅ **Requirements:** Android **12+** (API 31)
 
-
 ### Overview
 
 Find your next visual novel fast ✨. VN Browser is a clean, modern catalog to discover and track
