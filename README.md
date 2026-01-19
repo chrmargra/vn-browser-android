@@ -1,7 +1,7 @@
 ![VN Browser banner](assets/screenshots/banner.png)
 
 <!-- markdownlint-disable MD033 -->
-<table style="border:0; border-collapse:collapse;">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border:0; padding:0 16px 0 0; vertical-align:middle;">
       <img src="assets/screenshots/icon.png" width="96" alt="VN Browser icon" />
