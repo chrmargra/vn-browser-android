@@ -8,7 +8,7 @@ Unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.or
 <br clear="left" />
 
 🟢 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.cmgapps.vnbrowser)  
-Google Play is recommended. The APK is provided for manual installs on devices without Google Play.
+Google Play is recommended. APK is for devices without Google Play.
 
 💾 [Download APK (Latest)](https://github.com/chrmargra/vn-browser-android/releases/latest)
 
