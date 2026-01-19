@@ -16,9 +16,9 @@ Google Play is recommended. APK is for devices without Google Play.
 
 🔒 [Privacy Policy](https://devchristianmartin8.wixsite.com/policy-vn-browser)
 
-🧑‍💻 **Developer**: [CMG Apps](https://play.google.com/store/apps/dev?id=7948300751358149534)
+🏢 **Developer**: [CMG Apps](https://play.google.com/store/apps/dev?id=7948300751358149534)
 
-📧 **Support**: devchristianmartinez@gmail.com
+📧 **Support**: [devchristianmartinez@gmail.com](mailto:devchristianmartinez@gmail.com)
 
 ✅ **Requirements:** Android **12+** (API 31)
 
