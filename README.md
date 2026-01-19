@@ -1,15 +1,19 @@
 ![VN Browser banner](assets/screenshots/banner.png)
 
 <!-- markdownlint-disable MD033 -->
-<div style="display:flex; align-items:center; gap:14px;">
-  <img src="assets/screenshots/icon.png" width="96" alt="VN Browser icon" />
-  <div>
-    <h1 style="margin:0;">VN Browser</h1>
-    <p style="margin:6px 0 0;">
-      Unofficial Android client for VNDB (visual novel database).
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="padding:0 16px 0 0; vertical-align:middle;">
+      <img src="assets/screenshots/icon.png" width="96" alt="VN Browser icon" />
+    </td>
+    <td style="padding:0; vertical-align:middle;">
+      <h1 style="margin:0;">VN Browser</h1>
+      <p style="margin:6px 0 0;">
+        Unofficial Android client for VNDB (visual novel database).
+      </p>
+    </td>
+  </tr>
+</table>
 <!-- markdownlint-enable MD033 -->
 
 ### VN Browser - Search and discover visual novels.
