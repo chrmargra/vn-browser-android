@@ -63,8 +63,30 @@ confirmation prompt. Covers are blurred by default.
 ### 🔐 Privacy & data
 
 ➤ No account required. No ads.  
-➤ The app does not collect or sell personal data.  
+➤ The app does not sell personal data and does not use cross-app tracking.  
 ➤ Basic crash diagnostics may be used to improve stability.
+
+### 🛡️ Data safety & permissions
+
+To keep things transparent, here’s a snapshot of the app’s data and permission footprint:
+
+- **Data sharing:** Not sold and not shared with third parties for advertising or profiling.
+
+- **Data collected (for app functionality & stability):**
+  - Crash logs
+  - Diagnostics
+  - Device IDs (for diagnostics only)
+
+- **Security:** Data is encrypted in transit.
+
+- **Deletion:** There is no in-app data deletion request flow for collected diagnostics data.
+
+- **Content rating:** Parental guidance recommended.
+
+- **Permissions used:**
+  - View network connections.
+  - Full network access.
+  - License verification (Google Play)
 
 ### 📚 About the data
 
@@ -72,3 +94,14 @@ Content is shown from [The Visual Novel Database (VNDB)](https://vndb.org/). VN 
 independent app and is not
 affiliated with or endorsed by VNDB or any rights holders. It does not host or distribute visual
 novel content, only metadata and links to official pages.
+
+### 💡 Suggestions & feedback
+
+Have an idea, found a bug, or want to request a feature?
+
+➤ **Feature requests / ideas:** open an issue and describe your use case.  
+➤ **Bug reports:** include steps to reproduce, screenshots (if relevant), and your device + Android version.  
+➤ **Security / privacy concerns:** please contact the developer by email.
+
+🗂️ **GitHub Issues:** [https://github.com/chrmargra/vn-browser-android/issues](https://github.com/chrmargra/vn-browser-android/issues)  
+📩 **Email:** [devchristianmartinez@gmail.com](devchristianmartinez@gmail.com)
