@@ -73,9 +73,9 @@ To keep things transparent, here’s a snapshot of the app’s data and permissi
 - **Data sharing:** Not sold and not shared with third parties for advertising or profiling.
 
 - **Data collected (for app functionality & stability):**
-  - Crash logs
-  - Diagnostics
-  - Device IDs (for diagnostics only)
+  - Crash logs.
+  - Diagnostics.
+  - Device IDs (for diagnostics only).
 
 - **Security:** Data is encrypted in transit.
 
@@ -86,7 +86,7 @@ To keep things transparent, here’s a snapshot of the app’s data and permissi
 - **Permissions used:**
   - View network connections.
   - Full network access.
-  - License verification (Google Play)
+  - License verification (Google Play).
 
 ### 📚 About the data
 
@@ -104,4 +104,5 @@ Have an idea, found a bug, or want to request a feature?
 ➤ **Security / privacy concerns:** please contact the developer by email.
 
 🗂️ **GitHub Issues:** [https://github.com/chrmargra/vn-browser-android/issues](https://github.com/chrmargra/vn-browser-android/issues)  
+
 📩 **Email:** [devchristianmartinez@gmail.com](devchristianmartinez@gmail.com)
