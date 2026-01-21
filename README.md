@@ -105,4 +105,4 @@ Have an idea, found a bug, or want to request a feature?
 
 🗂️ **GitHub Issues:** [https://github.com/chrmargra/vn-browser-android/issues](https://github.com/chrmargra/vn-browser-android/issues)  
 
-📩 **Email:** [devchristianmartinez@gmail.com](devchristianmartinez@gmail.com)
+📩 **Email:** [devchristianmartinez@gmail.com](mailto:devchristianmartinez@gmail.com)
