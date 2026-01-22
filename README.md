@@ -3,7 +3,7 @@
 <img src="assets/store/icon.png" width="80" align="left" hspace="5" />
 
 ### VN Browser
-Unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.org/).
+The unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.org/)
 ### Search and discover visual novels.
 <br clear="left" />
 
