@@ -10,7 +10,7 @@ Unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.or
 <a href="https://play.google.com/store/apps/details?id=com.cmgapps.vnbrowser" rel="nofollow">
   <img
     alt="Get it on Google Play"
-    src="assets/badges/get-it-on-google-play.png"
+    src="assets/badges/get-it-on-google-play.svg"
     height="48"
   />
 </a>
