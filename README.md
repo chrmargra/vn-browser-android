@@ -1,14 +1,22 @@
-![VN Browser banner](assets/screenshots/banner.png)
+![VN Browser banner](assets/store/banner.png)
 
-<img src="assets/screenshots/icon.png" width="80" align="left" hspace="5" />
+<img src="assets/store/icon.png" width="80" align="left" hspace="5" />
 
 ### VN Browser
 Unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.org/).
 ### Search and discover visual novels.
 <br clear="left" />
 
-🟢 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.cmgapps.vnbrowser)  
-Google Play is recommended. APK is for devices without Google Play.
+<a href="https://play.google.com/store/apps/details?id=com.cmgapps.vnbrowser" rel="nofollow">
+  <img
+    alt="Get it on Google Play"
+    src="assets/badges/get-it-on-google-play.png"
+    height="48"
+  />
+</a>
+
+Google Play is recommended. APK is for devices without Google Play services (or where it isn't 
+available). Manual install and manual updates.
 
 💾 [Download APK (Latest)](https://github.com/chrmargra/vn-browser-android/releases/latest)
 
