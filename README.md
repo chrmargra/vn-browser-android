@@ -108,7 +108,7 @@ novel content, only metadata and links to official pages.
 Have an idea, found a bug, or want to request a feature?
 
 ➤ **Feature requests / ideas:** open an issue and describe your use case.  
-➤ **Bug reports:** include steps to reproduce, screenshots (if relevant), and your device + Android version.  
+➤ **Bug reports:** include steps to reproduce, screenshots (if relevant), your device, and Android version.  
 ➤ **Security / privacy concerns:** please contact the developer by email.
 
 🗂️ **GitHub Issues:** [https://github.com/chrmargra/vn-browser-android/issues](https://github.com/chrmargra/vn-browser-android/issues)  
