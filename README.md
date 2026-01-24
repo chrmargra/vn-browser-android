@@ -16,7 +16,7 @@ The unofficial Android client for [VNDB (The Visual Novel Database)](https://vnd
 </a>
 
 **Google Play is recommended**. APK is for devices without Google Play services (or where it isn't 
-available). **Manual install and manual updates.**
+available). **It requires a manual installation, and updates won't be automatic.**
 
 💾 [APK (Latest)](https://github.com/chrmargra/vn-browser-android/releases/latest)
 
