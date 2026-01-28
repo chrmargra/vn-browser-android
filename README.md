@@ -4,6 +4,13 @@
 
 ### VN Browser
 The unofficial Android client for [VNDB (The Visual Novel Database)](https://vndb.org/)
+
+<br/>
+
+[![Latest version](https://img.shields.io/github/v/release/chrmargra/vn-browser-android?display_name=tag&sort=semver&label=Latest%20version&logo=android)](https://github.com/chrmargra/vn-browser-android/releases/latest)
+[![Releases](https://img.shields.io/badge/Releases-changelog-blue?logo=github)](https://github.com/chrmargra/vn-browser-android/releases)
+![Android](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white)
+
 ### Search and discover visual novels
 <br clear="left" />
 
@@ -28,7 +35,7 @@ it isn't available). It requires a **manual installation**, and **updates won't 
 
 ✉️ **Support**: [devchristianmartinez@gmail.com](mailto:devchristianmartinez@gmail.com)
 
-✅ **Requirements:** Android **12+**
+✅ **Requirements:** Android **12+** • Requires an internet connection
 
 ### Overview
 
