@@ -61,14 +61,14 @@ Find your next visual novel fast ✨ VN Browser is a fast, modern VNDB client fo
 
 ### 🔎 What you can do
 
-➤ Search & filter by title, platforms, languages and release dates.
-➤ Browse curated lists: upcoming releases, just released and popular classics.
-➤ Open full details for visual novels and releases (editions, platforms, dates), plus character lists and game images.
-➤ Quickly check the essentials at a glance: ratings, platforms, release dates, and content notes.
-➤ When Mature mode is enabled, a random visual novel option appears, offering a more playful way to discover titles.
-➤ Optional in-app sound effects (off by default): enable them in Settings and discover which visual novels come alive with audio.
-➤ Open reference resources quickly (e.g. VNDB and other helpful links).
-➤ Report entries directly from any title's details (takes you to the VNDB report page).
+➤ Search & filter by title, platforms, languages and release dates.  
+➤ Browse curated lists: upcoming releases, just released and popular classics.  
+➤ Open full details for visual novels and releases (editions, platforms, dates), plus character lists and game images.  
+➤ Quickly check the essentials at a glance: ratings, platforms, release dates, and content notes.  
+➤ When Mature mode is enabled, a random visual novel option appears, offering a more playful way to discover titles.  
+➤ Optional in-app sound effects (off by default): enable them in Settings and discover which visual novels come alive with audio.  
+➤ Open reference resources quickly (e.g. VNDB and other helpful links).  
+➤ Report entries directly from any title's details (takes you to the VNDB report page).  
 ➤ Light/Dark theme that follows your system setting.
 
 ### 🧭 Maturity controls
