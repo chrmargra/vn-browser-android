@@ -77,8 +77,8 @@ Mature (18+) titles are hidden by default. You can enable them in Settings after
 
 ### 🔐 Privacy & data
 
-➤ No account required. No ads.
-➤ The app does not sell personal data and does not use cross-app tracking.
+➤ No account required. No ads.  
+➤ The app does not sell personal data and does not use cross-app tracking.  
 ➤ Crash reports and in-app configuration may be used to improve stability and deliver updates/messages inside the app.
 
 ### 🛡️ Data safety & permissions
