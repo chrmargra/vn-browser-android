@@ -7,7 +7,7 @@ The unofficial Android client for [VNDB (The Visual Novel Database)](https://vnd
 
 <br/>
 
-[![Latest version](https://img.shields.io/github/v/release/chrmargra/vn-browser-android?display_name=tag&sort=semver&label=Latest%20version&logo=android)](https://github.com/chrmargra/vn-browser-android/releases/latest)
+[![Latest version](https://img.shields.io/github/v/release/chrmargra/vn-browser-android?display_name=tag&sort=semver&label=Latest%20version&logo=android&cacheSeconds=1800)](https://github.com/chrmargra/vn-browser-android/releases/latest)
 [![Releases](https://img.shields.io/badge/Releases-changelog-blue?logo=github)](https://github.com/chrmargra/vn-browser-android/releases)
 ![Android](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white)
 
