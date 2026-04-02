@@ -61,7 +61,7 @@ Find your next visual novel fast ✨ VN Browser is a fast, modern VNDB client fo
 
 ### 🔎 What you can do
 
-➤ Search & filter by title, platforms, languages and release dates.  
+➤ Search & filter visual novels and releases by title, platforms, languages and release dates.  
 ➤ Browse curated lists: upcoming releases, just released and popular classics.  
 ➤ Open full details for visual novels and releases (editions, platforms, dates), plus character lists and game images.  
 ➤ Quickly check the essentials at a glance: ratings, platforms, release dates, and content notes.  
@@ -73,7 +73,9 @@ Find your next visual novel fast ✨ VN Browser is a fast, modern VNDB client fo
 
 ### 🧭 Maturity controls
 
-Mature (18+) titles are hidden by default. You can enable them in Settings after an age check and a confirmation prompt. Covers are blurred by default, and turning blur off requires confirmation.
+**VN Browser is for adults (18+) only.**
+
+Mature (18+) titles are hidden by default. You can enable them in Settings after age verification and a confirmation prompt. Covers are blurred by default, and turning blur off also requires confirmation.
 
 ### 🔐 Privacy & data
 
