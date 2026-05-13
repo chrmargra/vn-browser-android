@@ -103,6 +103,7 @@ To keep things transparent, here’s a snapshot of the app’s data and permissi
 - **Permissions used:**
   - View network connections.
   - Full network access.
+  - Control vibration.
   - License verification (Google Play).
 
 ### 📚 About the data
